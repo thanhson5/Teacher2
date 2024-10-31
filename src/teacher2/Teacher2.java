@@ -23,7 +23,6 @@ public class Teacher2 {
         scanner.close();
         // TODO code application logic here
     }
-        // TODO code application logic here
-    }
+ 
     
 }
